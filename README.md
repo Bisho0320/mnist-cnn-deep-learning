@@ -1,1 +1,0 @@
-# mnist-cnn-deep-learning
